@@ -1,2 +1,2 @@
-# Module-1-Challenge
-Challenge for Module 1
+# Horiseon Website Refactoring
+Working refactoring website for Horiseon company.
